@@ -4,7 +4,7 @@ body, html{
 }
 
 .bg {
-  background-image: url(DC_Images_Edited/IMG_6133.jpg);
+  background-image: url(DC_Images_Edited/IMG_6134.jpg);
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -18,7 +18,7 @@ body, html{
 }
 #bubble2 {
   margin-top: 2vh;
-
+  margin-left: 2vh;
   width: 40vh;
   height: 15vh;
 }
