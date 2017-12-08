@@ -22,8 +22,3 @@ body, html{
   width: 40vh;
   height: 15vh;
 }
-@media only screen and (max-width: 320px) {
-    .bg {
-      background-size: 10px;
-    }
-}
