@@ -1,8 +1,11 @@
 body, html{
-  padding-top: 30px;
-  height: 100%;
+  padding-top: 5vh;
+  min-height: 100%;
+  width: 100%;
   margin: 0;
+
 }
+
 
 .bg {
   background-image: url(DC_Images_Edited/IMG_6134.jpg);
@@ -10,7 +13,9 @@ body, html{
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-
+}
+.bg2{
+  background-color: #433F1E;
 }
 #bubble1{
   margin-top: 25vh;
@@ -26,4 +31,13 @@ body, html{
 .col-centered {
   float: none;
   margin: 0 auto;
+}
+.row {
+  margin-bottom: 3vh;
+
+}
+
+.border {
+  border: solid 2px black;
+  border-radius: 5px;
 }
