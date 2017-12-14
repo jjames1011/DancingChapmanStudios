@@ -8,7 +8,7 @@ body, html{
 
 
 .bg {
-  background-image: url(DC_Images_Edited/IMG_6134.jpg);
+  background-image: url(assets/background.jpg);
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -18,12 +18,12 @@ body, html{
   background-color: #433F1E;
 }
 #bubble1{
-  margin-top: 25vh;
+  margin-top: 18vh;
   width: 30vh;
   height:13vh;
 }
 #bubble2 {
-  margin-top: 2vh;
+  margin-top: -3vh;
   margin-left: 2vh;
   width: 40vh;
   height: 15vh;
@@ -40,4 +40,5 @@ body, html{
 .border {
   border: solid 2px black;
   border-radius: 5px;
+
 }
