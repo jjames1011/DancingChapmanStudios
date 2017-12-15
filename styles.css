@@ -9,7 +9,6 @@ p {
   color: black;
 }
 
-
 .bg {
   background-image: url(assets/background.jpg);
   height: 100vh;
@@ -36,6 +35,9 @@ p {
   margin: 0 auto;
   text-align: center;
 }
+.center {
+  text-align: center;
+}
 .row {
   margin-bottom: 3vh;
 
@@ -49,4 +51,14 @@ p {
 .logo {
   display:inline;
   margin-right:3vh;
+}
+#border {
+  border-top: 2px solid black;
+}
+.footer {
+  height: 10vh;
+  bottom: 0;
+}
+.footer p {
+  padding: 5vh 0 5vh 0;
 }
