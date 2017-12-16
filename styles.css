@@ -5,23 +5,25 @@ body, html{
   padding-top: 5vh;
   min-height: 100%;
   width: 100%;
-
-
-
 }
 p {
   color: black;
 }
 
+.bg2{
+  background-color: #433F1E;
+}
+.logo {
+  display:inline;
+  margin-right:3vh;
+}
+/* ----Landing page---- */
 .bg {
   background-image: url(assets/background.jpg);
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-}
-.bg2{
-  background-color: #433F1E;
 }
 #bubble1{
   margin-top: 18vh;
@@ -42,6 +44,7 @@ p {
 .center {
   text-align: center;
 }
+/*----showcase---*/
 .row {
   margin-bottom: 3vh;
 
@@ -52,10 +55,24 @@ p {
   border-radius: 5px;
 
 }
-.logo {
-  display:inline;
-  margin-right:3vh;
+/* ----Contact---- */
+#input_email {
+  margin-bottom: 5vh;
 }
+#input_email_label {
+  color: rgb(124,124,124);
+  margin-bottom: 5vh;
+  font-family: ;
+}
+#email_form {
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: rgba(34,34,34,.8);
+  margin: 10vh auto;
+  padding: 10vh 10vh 15vh 10vh;
+}
+
+/*----footer----*/
 .footer {
   border-top: 2px solid black;
   position: absolute;
