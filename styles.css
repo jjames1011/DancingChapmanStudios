@@ -1,8 +1,12 @@
 body, html{
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
   padding-top: 5vh;
   min-height: 100%;
   width: 100%;
-  margin: 0;
+
+
 
 }
 p {
@@ -52,13 +56,16 @@ p {
   display:inline;
   margin-right:3vh;
 }
-#border {
-  border-top: 2px solid black;
-}
 .footer {
-  height: 10vh;
+  border-top: 2px solid black;
+  position: absolute;
+  text-align: center;
+  right: 0;
   bottom: 0;
+  left: 0;
+  height: 5vh;
+
 }
 .footer p {
-  padding: 5vh 0 5vh 0;
+  padding: 2rem 0 2rem 0;
 }
