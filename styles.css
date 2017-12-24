@@ -40,10 +40,10 @@ p {
   text-align: center;
 }
 /*----showcase---*/
-/*.row {
+.row {
   margin-bottom: 3vh;
 
-}*/
+}
 
 .border {
   border: solid 2px black;
