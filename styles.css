@@ -8,14 +8,23 @@ body, html{
 }
 p {
   color: black;
+  font-size: 25px;
 }
 
+#coverImg {
+  width: 450px;
+  height: 550px ;
+
+}
+#btn-mg {
+  /* margin-left: 1em; */
+}
 .bg2{
   background-color: #433F1E;
 }
 .logo {
   display:inline;
-  margin-right:3vh;
+  /* margin-right:3vh; */
 }
 /* ----Landing page---- */
 .bg {
