@@ -11,9 +11,9 @@ p {
   font-size: 25px;
 }
 
-#coverImg {
-  width: 450px;
-  height: 550px ;
+.coverImg {
+  width: 400px;
+  height: 500px ;
 
 }
 #btn-mg {
