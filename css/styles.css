@@ -9,14 +9,19 @@ body, html{
 p {
   color: black;
   font-size: 25px;
+  font-family: 'Permanent Marker', cursive;
+
 }
 .preview-pics-container {
     width: 100%;
     position: relative;
-    display: block;
+    display: inline-block;
+
 
 }
+#readNow {
 
+}
 .preview-pic {
   display: inline-block;
   margin: 3px;
@@ -24,13 +29,10 @@ p {
   height: 250px ;
   float: left;
 }
-#preview-pic-1 {
-  float: left;
-}
-.yellow-bg {
+
+.padding-container {
   /* background-color: #44511b; */
   padding-top:20px;
-
   padding-bottom: 20px;
   margin-bottom: 20px;
 }
