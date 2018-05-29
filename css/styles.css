@@ -12,6 +12,11 @@ p {
   font-family: 'Permanent Marker', cursive;
 
 }
+
+.showcase-carousel {
+  margin-top: -1vh;
+  margin-bottom: 20px;
+}
 .preview-pics-container {
     width: 100%;
     position: relative;
